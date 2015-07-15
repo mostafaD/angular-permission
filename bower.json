@@ -1,8 +1,8 @@
 {
-  "name": "angular-permission",
-  "version": "0.3.1",
+  "name": "angular-permission-mis",
+  "version": "0.1.0",
   "authors": [
-    "Rafael Vidaurre <narzerus@gmail.com>"
+    "Mostafa"
   ],
   "description": "Route permission and access control as simple as it can get",
   "main": "dist/angular-permission.js",
@@ -13,7 +13,7 @@
     "route"
   ],
   "license": "MIT",
-  "homepage": "http://www.rafaelvidaurre.com",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
